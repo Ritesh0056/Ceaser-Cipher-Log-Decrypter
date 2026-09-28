@@ -1,0 +1,7 @@
+2026-09-28 08:02:11 INFO System startup completed
+2026-09-28 08:15:47 WARNING Disk usage at 85 percent
+2026-09-28 09:30:05 CRITICAL Security BREACH detected on server
+2026-09-28 10:12:33 INFO User admin logged in successfully
+2026-09-28 11:45:19 ERROR Failed login attempts exceeded limit
+2026-09-28 12:20:56 ALERT Possible data breach reported
+2026-09-28 13:05:40 INFO Nightly backup finished
